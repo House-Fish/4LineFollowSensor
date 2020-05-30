@@ -1,0 +1,18 @@
+{
+    "name": "_4line_follow_sensor",
+    "version": "0.0.1",
+    "description": "Blocks for Hiwonder 4 path line follow sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/_4line_follow_sensor-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}

@@ -1,0 +1,9 @@
+{
+	"_4line_follow_sensor.LineColor.Black|block":"黑线",
+	"_4line_follow_sensor.LineColor.White|block":"白线",
+	"_4line_follow_sensor.LineFollowerSensors.S1|block":"传感器1",
+	"_4line_follow_sensor.LineFollowerSensors.S2|block":"传感器2",
+	"_4line_follow_sensor.LineFollowerSensors.S3|block":"传感器3",
+	"_4line_follow_sensor.LineFollowerSensors.S4|block":"传感器4",
+	"_4line_follow_sensor.line_followers|block":"四路巡线模块|%lineFollowerSensor|接口4(P19:SCL,P20:SDA) 检测到|%lineColor ?"
+}
