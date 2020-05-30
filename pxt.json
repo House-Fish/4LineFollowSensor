@@ -1,5 +1,5 @@
 {
-    "name": "_4line_follow_sensor",
+    "name": "four_line_follow",
     "version": "0.0.1",
     "description": "Blocks for Hiwonder 4 path line follow sensor",
     "license": "MIT",
@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/_4line_follow_sensor-strings.json"
+        "_locales/zh/four_line_follow-strings.json"
     ],
     "testFiles": [
         "test.ts"

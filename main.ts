@@ -1,8 +1,8 @@
 /*
- _4line_follow_sensor package
+ four_line_follow package
 */
 //% weight=10 icon="\uf7a5" color=#2896ff
-namespace _4line_follow_sensor {
+namespace four_line_follow {
     export enum LineFollowerSensors {
         //% block="S1"
         S1,
