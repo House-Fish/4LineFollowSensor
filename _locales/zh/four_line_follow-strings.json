@@ -5,5 +5,5 @@
 	"four_line_follow.LineFollowerSensors.S2|block":"传感器2",
 	"four_line_follow.LineFollowerSensors.S3|block":"传感器3",
 	"four_line_follow.LineFollowerSensors.S4|block":"传感器4",
-	"four_line_follow.line_followers|block":"四路巡线模块|%lineFollowerSensor|引脚(P19:SCL,P20:SDA) 检测到|%lineColor ?"
+	"four_line_follow.line_followers|block":"四路巡线模块|%lineFollowerSensor|引脚(P19:SCL,P20:SDA,Qdee主板和Startbit主板请连接接口4) 检测到|%lineColor ?"
 }
